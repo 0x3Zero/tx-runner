@@ -1,0 +1,4 @@
+WORLD_STATE = "/path/to/world-state"
+CONSENSUS = "/path/to/validator"
+NUM_OF_THREAD = 5
+INTERVAL = 5
